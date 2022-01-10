@@ -1,0 +1,6 @@
+[submodule "be-the-hero"]
+	path = be-the-hero
+	url = git@github.com:NicolasTito/be-the-hero.git
+[submodule "Search_University"]
+	path = Search_University
+	url = git@github.com:NicolasTito/Search_University.git
